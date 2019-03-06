@@ -1,0 +1,4 @@
+com/mpaxe/model/Cliente.class
+com/mpaxe/model/JPAUtil.class
+com/mpaxe/controller/ClienteBean.class
+com/mpaxe/dao/ClienteDAO.class
